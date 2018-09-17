@@ -159,8 +159,6 @@ public class MaintenanceController {
             return;
         }
 
-        mpanel.initCollectCash();
-        mpanel.initTotalCash();
         mpanel.setActive(MaintenancePanel.DIALOG, true);
 
     }
