@@ -1,6 +1,4 @@
-set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_131
-set ANT_HOME=..\apache-ant-1.6.5
-set JUNIT_HOME=..\junit3.8.2
+set JUNIT_HOME=C:\NUS 2nd Sem\Software Quality Management\Software Configuration Management
 
 set PATH=%JAVA_HOME%\bin;%ANT_HOME%\bin
 set CLASSPATH=%JUNIT_HOME%\junit.jar
